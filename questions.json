@@ -1,0 +1,44 @@
+
+[
+    {
+        "question":"Which of the following function of String object returns the character at the specified index?",
+        "choice1": "charAt()",
+        "choice2": "charCodeAt()",
+        "choice3": "concat()",
+        "choice4": "indexOf()",
+        "answer": 1
+    },
+    {
+        "question":"Which snippet of CSS is commonly used to center a website horizontally?",
+        "choice1": "site-align: center",
+        "choice2": "margin: center",
+        "choice3": "margin: auto 0",
+        "choice4": "margin: 0 auto",
+        "answer": 4
+    },
+    {
+        "question":"How can you print information to the console?",
+        "choice1": "console(info)",
+        "choice2": "console.log(info)",
+        "choice3": "print(info)",
+        "choice4": "document.write(info)",
+        "answer": 2
+    },
+    {
+        "question":"Inside which HTML element do we put the JavaScript?",
+        "choice1": "link",
+        "choice2": "javascript",
+        "choice3": "JS",
+        "choice4": "script",
+        "answer": 4
+    },
+    {
+        "question":"What keyword is used to create a JavaScript variable ?",
+        "choice1": "variable",
+        "choice2": "varies",
+        "choice3": "string",
+        "choice4": "var",
+        "answer": 4
+    }
+
+]
